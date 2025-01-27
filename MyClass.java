@@ -11,7 +11,7 @@ public class KeywordExample {
         
         // Variable declarations and initialization
         int num1 = 10;  // 'int' is a primitive data type for integer numbers
-        dou num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
+        double num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
         
         // 'if' is a conditional statement
         if (num1 < num2) {
@@ -24,7 +24,7 @@ public class KeywordExample {
         // 'for' loop for iteration
         for (int i = 0; i < 5; i++) {
             // 'i' is a loop variable, 'for' repeats the block of code
-            System.out.println("Loop index: " + i);
+            System.out.printl("Loop index: " + i);
         }
         
         // 'try' and 'catch' are used for exception handling
