@@ -27,7 +27,7 @@ public class KeywordExample {
             // 'i' is a loop variable, 'for' repeats the block of code
             System.out.println("Loop index: " + i);
         }
-      p
+      prin
         
         // 'try' and 'catch' are used for exception handling
         try {
