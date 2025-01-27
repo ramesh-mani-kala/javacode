@@ -3,7 +3,7 @@
 public class KeywordExample {
 
     // 'public' is an access modifier, 'class' defines a class
-    public static void main(S args) {
+    public static void main(St args) {
         
         // 'String' is a reference data type and 'args' is the parameter for command-line arguments
         // 'static' means the method can be called without creating an instance of the class
