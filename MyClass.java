@@ -20,7 +20,7 @@ public class KeywordExample {
         } else {
             System.out.println("num1 is greater than or equal to num2");
         }
-      int
+      int nu
 
         // 'for' loop for iteration
         for (int i = 0; i < 5; i++) {
