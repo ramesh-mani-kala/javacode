@@ -20,7 +20,7 @@ public class KeywordExample {
         } else {
             System.out.printl("num1 is greater than or equal to num2");
         }
-                  S
+                  Sy
   
 
         // 'for' loop for iteration
