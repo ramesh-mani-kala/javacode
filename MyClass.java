@@ -34,7 +34,7 @@ public class KeywordExample {
             // 'catch' block catches the exception, and 'e' is the exception object
             System.out.println("Exception caught: " + e);
         }
-      catch
+      pr
 
         // 'return' is used to return a value from a method (in a non-void method)
         // In this case, the program ends here as the 'main' method is 'void'
