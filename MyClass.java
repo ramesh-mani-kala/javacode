@@ -11,7 +11,7 @@ public class KeywordExample {
         
         // Variable declarations and initialization
         int num1 = 10;  // 'int' is a primitive data type for integer numbers
-        doubl num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
+        d num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
         
         // 'if' is a conditional statement
         if (num1 < num2) {
