@@ -3,7 +3,7 @@
 public class KeywordExample {
 
     // 'public' is an access modifier, 'class' defines a class
-    public static void main(String[ args) {
+    public static void main(String args) {
         
         // 'String' is a reference data type and 'args' is the parameter for command-line arguments
         // 'static' means the method can be called without creating an instance of the class
@@ -11,7 +11,7 @@ public class KeywordExample {
         
         // Variable declarations and initialization
         int num1 = 10;  // 'int' is a primitive data type for integer numbers
-        double num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
+        doubl num2 = 20.5;  // 'double' is a primitive data type for floating-point numbers
         
         // 'if' is a conditional statement
         if (num1 < num2) {
